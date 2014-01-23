@@ -1,0 +1,9 @@
+0
+load @5
+add @6
+mult $2
+store $7
+stop
+21
+34
+0

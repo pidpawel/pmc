@@ -1,0 +1,6 @@
+0
+load $3
+sub $1
+jneg $4
+jump $1
+stop

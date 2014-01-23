@@ -1,0 +1,8 @@
+2
+12
+0
+load $0
+sub $1
+mult @0
+store $1
+stop

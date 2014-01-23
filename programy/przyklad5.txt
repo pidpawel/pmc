@@ -1,0 +1,27 @@
+0
+load $0
+store $19
+load $21
+store $18
+load $21
+add @20
+sub @18
+jzero $15
+load @19
+add &18
+store $19
+load @18
+add $1
+store $18
+jump $4
+stop
+0
+0
+0
+0
+5
+20
+30
+40
+50
+60

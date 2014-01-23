@@ -1,0 +1,20 @@
+7
+0
+0
+0
+0
+0
+0
+0
+not @0
+store $2
+not @1
+store $3
+load @0
+and @3
+store $4
+load @2
+and @1
+or @4
+store $6
+stop
